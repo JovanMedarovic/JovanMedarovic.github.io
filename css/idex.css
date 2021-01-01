@@ -1,0 +1,71 @@
+h1
+{
+    font-size: 3rem;
+}
+h3
+{
+    font-size: 1.6rem;
+}
+.navbar
+{
+    background-color: #1a1a1a !important;
+}
+.navbar-brand
+{
+    color: #999999 !important;
+    font-size: 2rem;
+    transition: all ease-out 1000ms;
+    
+}
+.navbar-brand:hover
+{
+    color: #ff5555 !important;
+    transition: all ease-in-out 200ms;
+}
+.nav-link
+{
+    color: #999999 !important;
+    font-size: 1.2rem;
+    padding: 2rem !important;
+    transition: all ease-out 1000ms;
+}
+.nav-link:hover
+{
+    color: white !important;
+    transition: all ease-in-out 200ms;
+}
+body
+{
+    background-color: #333333;
+}
+#left-text h1, h3
+{
+    color: white;
+}
+#nameInText
+{
+    color: #ff5555;
+}
+img
+{
+    z-index: -1;
+    border: solid 4px black;
+    transition: all ease-out 1000ms;
+}
+img:hover
+{
+    border-color: #ff5555;
+    transition: all ease-in-out 1000ms;
+}
+button
+{
+    color: #ff5555 !important;
+    transition: all ease-out 1000ms !important;
+}
+button:hover
+{
+    color: white !important;
+    background-color: #ff5555 !important;
+    border-color: white !important;
+    transition: all ease-in-out 200ms !important;
+}
