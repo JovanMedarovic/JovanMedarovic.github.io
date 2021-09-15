@@ -1,0 +1,2330 @@
+[
+  {
+    "Time": "s",
+    "Humidity": "%RH",
+    "Light": "lx",
+    "Pressure": "kPa",
+    "Sound": "dBA",
+    "Temperature": "°C"
+  },
+  {
+    "Time": 0,
+    "Humidity": 36.9,
+    "Light": 335,
+    "Pressure": 99,
+    "Sound": 40.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 1,
+    "Humidity": 36.9,
+    "Light": 439,
+    "Pressure": 98.97,
+    "Sound": 48.6,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 2,
+    "Humidity": 36.9,
+    "Light": 451,
+    "Pressure": 98.98,
+    "Sound": 65.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 3,
+    "Humidity": 36.9,
+    "Light": 452,
+    "Pressure": 98.98,
+    "Sound": 69.2,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 4,
+    "Humidity": 36.9,
+    "Light": 453,
+    "Pressure": 98.98,
+    "Sound": 68.4,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 5,
+    "Humidity": 36.9,
+    "Light": 442,
+    "Pressure": 98.96,
+    "Sound": 40.3,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 6,
+    "Humidity": 36.9,
+    "Light": 450,
+    "Pressure": 98.99,
+    "Sound": 42.9,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 7,
+    "Humidity": 36.9,
+    "Light": 452,
+    "Pressure": 98.97,
+    "Sound": 63,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 8,
+    "Humidity": 36.9,
+    "Light": 452,
+    "Pressure": 98.95,
+    "Sound": 40,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 9,
+    "Humidity": 36.9,
+    "Light": 452,
+    "Pressure": 98.95,
+    "Sound": 54.2,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 10,
+    "Humidity": 36.9,
+    "Light": 452,
+    "Pressure": 98.94,
+    "Sound": 49.5,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 11,
+    "Humidity": 36.9,
+    "Light": 452,
+    "Pressure": 98.97,
+    "Sound": 41,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 12,
+    "Humidity": 36.9,
+    "Light": 451,
+    "Pressure": 98.96,
+    "Sound": 40.2,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 13,
+    "Humidity": 36.8,
+    "Light": 443,
+    "Pressure": 99,
+    "Sound": 40,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 14,
+    "Humidity": 36.8,
+    "Light": 442,
+    "Pressure": 99,
+    "Sound": 40,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 15,
+    "Humidity": 36.8,
+    "Light": 443,
+    "Pressure": 99,
+    "Sound": 40,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 16,
+    "Humidity": 36.8,
+    "Light": 443,
+    "Pressure": 98.98,
+    "Sound": 40,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 17,
+    "Humidity": 36.8,
+    "Light": 443,
+    "Pressure": 98.95,
+    "Sound": 46.4,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 18,
+    "Humidity": 36.8,
+    "Light": 441,
+    "Pressure": 98.99,
+    "Sound": 47.8,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 19,
+    "Humidity": 36.8,
+    "Light": 449,
+    "Pressure": 98.98,
+    "Sound": 54.9,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 20,
+    "Humidity": 36.7,
+    "Light": 451,
+    "Pressure": 98.98,
+    "Sound": 62.7,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 21,
+    "Humidity": 36.7,
+    "Light": 451,
+    "Pressure": 98.97,
+    "Sound": 42.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 22,
+    "Humidity": 36.7,
+    "Light": 451,
+    "Pressure": 98.95,
+    "Sound": 48.4,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 23,
+    "Humidity": 36.7,
+    "Light": 444,
+    "Pressure": 98.98,
+    "Sound": 75.5,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 24,
+    "Humidity": 36.7,
+    "Light": 438,
+    "Pressure": 98.98,
+    "Sound": 70.3,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 25,
+    "Humidity": 36.7,
+    "Light": 450,
+    "Pressure": 98.98,
+    "Sound": 42.5,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 26,
+    "Humidity": 36.6,
+    "Light": 428,
+    "Pressure": 98.98,
+    "Sound": 76.2,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 27,
+    "Humidity": 36.6,
+    "Light": 412,
+    "Pressure": 98.97,
+    "Sound": 73.2,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 28,
+    "Humidity": 36.6,
+    "Light": 396,
+    "Pressure": 98.99,
+    "Sound": 73.4,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 29,
+    "Humidity": 36.6,
+    "Light": 393,
+    "Pressure": 98.98,
+    "Sound": 69.8,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 30,
+    "Humidity": 36.6,
+    "Light": 413,
+    "Pressure": 98.97,
+    "Sound": 69.4,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 31,
+    "Humidity": 36.6,
+    "Light": 411,
+    "Pressure": 98.98,
+    "Sound": 68.8,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 32,
+    "Humidity": 36.6,
+    "Light": 413,
+    "Pressure": 98.93,
+    "Sound": 73.3,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 33,
+    "Humidity": 36.6,
+    "Light": 437,
+    "Pressure": 99,
+    "Sound": 45.4,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 34,
+    "Humidity": 36.6,
+    "Light": 408,
+    "Pressure": 98.96,
+    "Sound": 85.6,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 35,
+    "Humidity": 36.6,
+    "Light": 424,
+    "Pressure": 98.97,
+    "Sound": 76.7,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 36,
+    "Humidity": 36.5,
+    "Light": 424,
+    "Pressure": 98.97,
+    "Sound": 44.7,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 37,
+    "Humidity": 36.6,
+    "Light": 447,
+    "Pressure": 98.96,
+    "Sound": 41.9,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 38,
+    "Humidity": 36.5,
+    "Light": 428,
+    "Pressure": 98.96,
+    "Sound": 75.7,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 39,
+    "Humidity": 36.5,
+    "Light": 388,
+    "Pressure": 98.97,
+    "Sound": 76.2,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 40,
+    "Humidity": 36.5,
+    "Light": 380,
+    "Pressure": 98.97,
+    "Sound": 64.7,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 41,
+    "Humidity": 36.6,
+    "Light": 375,
+    "Pressure": 98.98,
+    "Sound": 67.7,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 42,
+    "Humidity": 36.6,
+    "Light": 438,
+    "Pressure": 98.96,
+    "Sound": 45.8,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 43,
+    "Humidity": 36.6,
+    "Light": 449,
+    "Pressure": 99,
+    "Sound": 46.8,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 44,
+    "Humidity": 36.6,
+    "Light": 450,
+    "Pressure": 98.99,
+    "Sound": 45.9,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 45,
+    "Humidity": 36.5,
+    "Light": 443,
+    "Pressure": 98.98,
+    "Sound": 79.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 46,
+    "Humidity": 36.5,
+    "Light": 85,
+    "Pressure": 98.98,
+    "Sound": 53.8,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 47,
+    "Humidity": 36.5,
+    "Light": 18,
+    "Pressure": 98.98,
+    "Sound": 40.7,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 48,
+    "Humidity": 36.5,
+    "Light": 9,
+    "Pressure": 98.98,
+    "Sound": 61,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 49,
+    "Humidity": 36.5,
+    "Light": 7,
+    "Pressure": 98.98,
+    "Sound": 53.7,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 50,
+    "Humidity": 36.5,
+    "Light": 6,
+    "Pressure": 99,
+    "Sound": 57.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 51,
+    "Humidity": 36.5,
+    "Light": 6,
+    "Pressure": 98.98,
+    "Sound": 75.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 52,
+    "Humidity": 36.6,
+    "Light": 6,
+    "Pressure": 98.99,
+    "Sound": 66.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 53,
+    "Humidity": 36.6,
+    "Light": 7,
+    "Pressure": 98.95,
+    "Sound": 64.6,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 54,
+    "Humidity": 36.6,
+    "Light": 6,
+    "Pressure": 98.96,
+    "Sound": 47.8,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 55,
+    "Humidity": 36.6,
+    "Light": 6,
+    "Pressure": 98.97,
+    "Sound": 46.3,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 56,
+    "Humidity": 36.6,
+    "Light": 6,
+    "Pressure": 98.99,
+    "Sound": 76.6,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 57,
+    "Humidity": 36.6,
+    "Light": 5,
+    "Pressure": 98.97,
+    "Sound": 60.4,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 58,
+    "Humidity": 36.6,
+    "Light": 5,
+    "Pressure": 98.98,
+    "Sound": 62.3,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 59,
+    "Humidity": 36.7,
+    "Light": 376,
+    "Pressure": 98.99,
+    "Sound": 40.6,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 60,
+    "Humidity": 36.7,
+    "Light": 438,
+    "Pressure": 98.98,
+    "Sound": 88.6,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 61,
+    "Humidity": 36.7,
+    "Light": 446,
+    "Pressure": 98.97,
+    "Sound": 78.5,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 62,
+    "Humidity": 36.7,
+    "Light": 448,
+    "Pressure": 98.98,
+    "Sound": 78.3,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 63,
+    "Humidity": 36.8,
+    "Light": 448,
+    "Pressure": 99.01,
+    "Sound": 41.5,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 64,
+    "Humidity": 36.8,
+    "Light": 201,
+    "Pressure": 98.99,
+    "Sound": 52.7,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 65,
+    "Humidity": 36.8,
+    "Light": 352,
+    "Pressure": 98.96,
+    "Sound": 70.5,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 66,
+    "Humidity": 36.8,
+    "Light": 448,
+    "Pressure": 98.95,
+    "Sound": 73.9,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 67,
+    "Humidity": 36.8,
+    "Light": 458,
+    "Pressure": 98.98,
+    "Sound": 77.4,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 68,
+    "Humidity": 36.8,
+    "Light": 460,
+    "Pressure": 98.97,
+    "Sound": 65.8,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 69,
+    "Humidity": 36.8,
+    "Light": 460,
+    "Pressure": 98.99,
+    "Sound": 44.4,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 70,
+    "Humidity": 36.8,
+    "Light": 460,
+    "Pressure": 98.98,
+    "Sound": 75.9,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 71,
+    "Humidity": 36.8,
+    "Light": 460,
+    "Pressure": 98.96,
+    "Sound": 83.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 72,
+    "Humidity": 36.8,
+    "Light": 460,
+    "Pressure": 98.96,
+    "Sound": 70.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 73,
+    "Humidity": 36.8,
+    "Light": 459,
+    "Pressure": 99,
+    "Sound": 67.6,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 74,
+    "Humidity": 36.8,
+    "Light": 459,
+    "Pressure": 98.99,
+    "Sound": 61.2,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 75,
+    "Humidity": 36.8,
+    "Light": 459,
+    "Pressure": 98.99,
+    "Sound": 60.5,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 76,
+    "Humidity": 36.8,
+    "Light": 459,
+    "Pressure": 98.98,
+    "Sound": 52.8,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 77,
+    "Humidity": 36.8,
+    "Light": 459,
+    "Pressure": 98.97,
+    "Sound": 71.4,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 78,
+    "Humidity": 36.8,
+    "Light": 459,
+    "Pressure": 98.98,
+    "Sound": 53.6,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 79,
+    "Humidity": 36.8,
+    "Light": 459,
+    "Pressure": 98.95,
+    "Sound": 76.1,
+    "Temperature": 34.1
+  },
+  {
+    "Time": 80,
+    "Humidity": 36.8,
+    "Light": 460,
+    "Pressure": 98.97,
+    "Sound": 56.6,
+    "Temperature": 34.1
+  },
+  {
+    "Time": 81,
+    "Humidity": 36.8,
+    "Light": 459,
+    "Pressure": 98.97,
+    "Sound": 44.7,
+    "Temperature": 34
+  },
+  {
+    "Time": 82,
+    "Humidity": 36.8,
+    "Light": 459,
+    "Pressure": 98.96,
+    "Sound": 54.5,
+    "Temperature": 33.9
+  },
+  {
+    "Time": 83,
+    "Humidity": 36.8,
+    "Light": 459,
+    "Pressure": 98.95,
+    "Sound": 65.8,
+    "Temperature": 33.8
+  },
+  {
+    "Time": 84,
+    "Humidity": 36.8,
+    "Light": 446,
+    "Pressure": 99,
+    "Sound": 45.8,
+    "Temperature": 33.7
+  },
+  {
+    "Time": 85,
+    "Humidity": 36.8,
+    "Light": 441,
+    "Pressure": 98.98,
+    "Sound": 40,
+    "Temperature": 33.6
+  },
+  {
+    "Time": 86,
+    "Humidity": 36.8,
+    "Light": 440,
+    "Pressure": 98.98,
+    "Sound": 40,
+    "Temperature": 33.4
+  },
+  {
+    "Time": 87,
+    "Humidity": 36.8,
+    "Light": 442,
+    "Pressure": 98.97,
+    "Sound": 65.1,
+    "Temperature": 33.3
+  },
+  {
+    "Time": 88,
+    "Humidity": 36.8,
+    "Light": 444,
+    "Pressure": 98.98,
+    "Sound": 40,
+    "Temperature": 33.2
+  },
+  {
+    "Time": 89,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.98,
+    "Sound": 76.5,
+    "Temperature": 33.1
+  },
+  {
+    "Time": 90,
+    "Humidity": 36.8,
+    "Light": 458,
+    "Pressure": 99,
+    "Sound": 64.4,
+    "Temperature": 33.1
+  },
+  {
+    "Time": 91,
+    "Humidity": 36.8,
+    "Light": 458,
+    "Pressure": 98.97,
+    "Sound": 75.6,
+    "Temperature": 33
+  },
+  {
+    "Time": 92,
+    "Humidity": 36.8,
+    "Light": 458,
+    "Pressure": 98.99,
+    "Sound": 68.6,
+    "Temperature": 32.9
+  },
+  {
+    "Time": 93,
+    "Humidity": 36.8,
+    "Light": 458,
+    "Pressure": 98.97,
+    "Sound": 45.5,
+    "Temperature": 32.8
+  },
+  {
+    "Time": 94,
+    "Humidity": 36.8,
+    "Light": 458,
+    "Pressure": 98.98,
+    "Sound": 60.9,
+    "Temperature": 32.8
+  },
+  {
+    "Time": 95,
+    "Humidity": 36.8,
+    "Light": 457,
+    "Pressure": 98.97,
+    "Sound": 40,
+    "Temperature": 32.7
+  },
+  {
+    "Time": 96,
+    "Humidity": 36.8,
+    "Light": 458,
+    "Pressure": 98.99,
+    "Sound": 70.6,
+    "Temperature": 32.7
+  },
+  {
+    "Time": 97,
+    "Humidity": 36.8,
+    "Light": 458,
+    "Pressure": 98.99,
+    "Sound": 44,
+    "Temperature": 32.6
+  },
+  {
+    "Time": 98,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 99.01,
+    "Sound": 61.2,
+    "Temperature": 32.5
+  },
+  {
+    "Time": 99,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 98.97,
+    "Sound": 72.4,
+    "Temperature": 32.5
+  },
+  {
+    "Time": 100,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.95,
+    "Sound": 47.9,
+    "Temperature": 32.5
+  },
+  {
+    "Time": 101,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.95,
+    "Sound": 72.8,
+    "Temperature": 32.5
+  },
+  {
+    "Time": 102,
+    "Humidity": 36.7,
+    "Light": 460,
+    "Pressure": 98.96,
+    "Sound": 44.2,
+    "Temperature": 32.5
+  },
+  {
+    "Time": 103,
+    "Humidity": 36.7,
+    "Light": 460,
+    "Pressure": 98.97,
+    "Sound": 45.7,
+    "Temperature": 32.5
+  },
+  {
+    "Time": 104,
+    "Humidity": 36.7,
+    "Light": 460,
+    "Pressure": 98.96,
+    "Sound": 40,
+    "Temperature": 32.6
+  },
+  {
+    "Time": 105,
+    "Humidity": 36.7,
+    "Light": 460,
+    "Pressure": 98.95,
+    "Sound": 40,
+    "Temperature": 32.6
+  },
+  {
+    "Time": 106,
+    "Humidity": 36.7,
+    "Light": 460,
+    "Pressure": 98.97,
+    "Sound": 44.2,
+    "Temperature": 32.7
+  },
+  {
+    "Time": 107,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.97,
+    "Sound": 43.1,
+    "Temperature": 32.7
+  },
+  {
+    "Time": 108,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.95,
+    "Sound": 40,
+    "Temperature": 32.8
+  },
+  {
+    "Time": 109,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.96,
+    "Sound": 40,
+    "Temperature": 32.8
+  },
+  {
+    "Time": 110,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.97,
+    "Sound": 40,
+    "Temperature": 32.9
+  },
+  {
+    "Time": 111,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.98,
+    "Sound": 40,
+    "Temperature": 32.9
+  },
+  {
+    "Time": 112,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.96,
+    "Sound": 44.3,
+    "Temperature": 33
+  },
+  {
+    "Time": 113,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.97,
+    "Sound": 74.8,
+    "Temperature": 33.1
+  },
+  {
+    "Time": 114,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.96,
+    "Sound": 73.5,
+    "Temperature": 33.1
+  },
+  {
+    "Time": 115,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.97,
+    "Sound": 70.6,
+    "Temperature": 33.2
+  },
+  {
+    "Time": 116,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.99,
+    "Sound": 72.3,
+    "Temperature": 33.2
+  },
+  {
+    "Time": 117,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.94,
+    "Sound": 40,
+    "Temperature": 33.3
+  },
+  {
+    "Time": 118,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.96,
+    "Sound": 67.1,
+    "Temperature": 33.3
+  },
+  {
+    "Time": 119,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.97,
+    "Sound": 69.7,
+    "Temperature": 33.4
+  },
+  {
+    "Time": 120,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.98,
+    "Sound": 51,
+    "Temperature": 33.4
+  },
+  {
+    "Time": 121,
+    "Humidity": 36.7,
+    "Light": 459,
+    "Pressure": 98.96,
+    "Sound": 46.7,
+    "Temperature": 33.5
+  },
+  {
+    "Time": 122,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 98.95,
+    "Sound": 76.4,
+    "Temperature": 33.5
+  },
+  {
+    "Time": 123,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 99,
+    "Sound": 67,
+    "Temperature": 33.6
+  },
+  {
+    "Time": 124,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 98.94,
+    "Sound": 77.6,
+    "Temperature": 33.6
+  },
+  {
+    "Time": 125,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 98.95,
+    "Sound": 74.5,
+    "Temperature": 33.6
+  },
+  {
+    "Time": 126,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 98.99,
+    "Sound": 40,
+    "Temperature": 33.7
+  },
+  {
+    "Time": 127,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 98.95,
+    "Sound": 40.1,
+    "Temperature": 33.7
+  },
+  {
+    "Time": 128,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 98.97,
+    "Sound": 40,
+    "Temperature": 33.8
+  },
+  {
+    "Time": 129,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 98.97,
+    "Sound": 68.2,
+    "Temperature": 33.8
+  },
+  {
+    "Time": 130,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 98.98,
+    "Sound": 73.1,
+    "Temperature": 33.8
+  },
+  {
+    "Time": 131,
+    "Humidity": 36.7,
+    "Light": 458,
+    "Pressure": 98.98,
+    "Sound": 68.2,
+    "Temperature": 33.9
+  },
+  {
+    "Time": 132,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.98,
+    "Sound": 72.2,
+    "Temperature": 33.9
+  },
+  {
+    "Time": 133,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.95,
+    "Sound": 72.1,
+    "Temperature": 34
+  },
+  {
+    "Time": 134,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 99.01,
+    "Sound": 72.2,
+    "Temperature": 34
+  },
+  {
+    "Time": 135,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.98,
+    "Sound": 48.7,
+    "Temperature": 34
+  },
+  {
+    "Time": 136,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 99,
+    "Sound": 68.1,
+    "Temperature": 34.1
+  },
+  {
+    "Time": 137,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.97,
+    "Sound": 73.7,
+    "Temperature": 34.1
+  },
+  {
+    "Time": 138,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.98,
+    "Sound": 60.5,
+    "Temperature": 34.1
+  },
+  {
+    "Time": 139,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.98,
+    "Sound": 75.8,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 140,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.97,
+    "Sound": 71.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 141,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.98,
+    "Sound": 54.1,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 142,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.96,
+    "Sound": 70.5,
+    "Temperature": 34.2
+  },
+  {
+    "Time": 143,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 99,
+    "Sound": 72.2,
+    "Temperature": 34.3
+  },
+  {
+    "Time": 144,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.96,
+    "Sound": 52.4,
+    "Temperature": 34.3
+  },
+  {
+    "Time": 145,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.98,
+    "Sound": 75.6,
+    "Temperature": 34.3
+  },
+  {
+    "Time": 146,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 99,
+    "Sound": 73.4,
+    "Temperature": 34.4
+  },
+  {
+    "Time": 147,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.97,
+    "Sound": 77.3,
+    "Temperature": 34.4
+  },
+  {
+    "Time": 148,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.98,
+    "Sound": 69.7,
+    "Temperature": 34.4
+  },
+  {
+    "Time": 149,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 99.01,
+    "Sound": 56.7,
+    "Temperature": 34.4
+  },
+  {
+    "Time": 150,
+    "Humidity": 36.7,
+    "Light": 457,
+    "Pressure": 98.97,
+    "Sound": 45.6,
+    "Temperature": 34.5
+  },
+  {
+    "Time": 151,
+    "Humidity": 36.8,
+    "Light": 457,
+    "Pressure": 98.97,
+    "Sound": 66,
+    "Temperature": 34.5
+  },
+  {
+    "Time": 152,
+    "Humidity": 36.8,
+    "Light": 457,
+    "Pressure": 98.95,
+    "Sound": 71.6,
+    "Temperature": 34.5
+  },
+  {
+    "Time": 153,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.97,
+    "Sound": 66.1,
+    "Temperature": 34.5
+  },
+  {
+    "Time": 154,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.96,
+    "Sound": 41.5,
+    "Temperature": 34.5
+  },
+  {
+    "Time": 155,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.97,
+    "Sound": 64.8,
+    "Temperature": 34.6
+  },
+  {
+    "Time": 156,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.99,
+    "Sound": 42.2,
+    "Temperature": 34.6
+  },
+  {
+    "Time": 157,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.95,
+    "Sound": 41.4,
+    "Temperature": 34.6
+  },
+  {
+    "Time": 158,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 99,
+    "Sound": 50.4,
+    "Temperature": 34.6
+  },
+  {
+    "Time": 159,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.96,
+    "Sound": 79.6,
+    "Temperature": 34.7
+  },
+  {
+    "Time": 160,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.97,
+    "Sound": 70.7,
+    "Temperature": 34.7
+  },
+  {
+    "Time": 161,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.96,
+    "Sound": 44.1,
+    "Temperature": 34.7
+  },
+  {
+    "Time": 162,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.95,
+    "Sound": 40,
+    "Temperature": 34.7
+  },
+  {
+    "Time": 163,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 99,
+    "Sound": 76.2,
+    "Temperature": 34.7
+  },
+  {
+    "Time": 164,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.94,
+    "Sound": 63.8,
+    "Temperature": 34.7
+  },
+  {
+    "Time": 165,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.98,
+    "Sound": 49.4,
+    "Temperature": 34.7
+  },
+  {
+    "Time": 166,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.97,
+    "Sound": 40,
+    "Temperature": 34.8
+  },
+  {
+    "Time": 167,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.98,
+    "Sound": 40,
+    "Temperature": 34.8
+  },
+  {
+    "Time": 168,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.99,
+    "Sound": 64.8,
+    "Temperature": 34.8
+  },
+  {
+    "Time": 169,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.97,
+    "Sound": 72.1,
+    "Temperature": 34.8
+  },
+  {
+    "Time": 170,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.97,
+    "Sound": 57.6,
+    "Temperature": 34.8
+  },
+  {
+    "Time": 171,
+    "Humidity": 36.8,
+    "Light": 456,
+    "Pressure": 98.96,
+    "Sound": 76.8,
+    "Temperature": 34.8
+  },
+  {
+    "Time": 172,
+    "Humidity": 36.8,
+    "Light": 455,
+    "Pressure": 98.99,
+    "Sound": 45.7,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 173,
+    "Humidity": 36.8,
+    "Light": 455,
+    "Pressure": 98.98,
+    "Sound": 73.6,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 174,
+    "Humidity": 36.8,
+    "Light": 455,
+    "Pressure": 98.99,
+    "Sound": 67.3,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 175,
+    "Humidity": 36.8,
+    "Light": 455,
+    "Pressure": 98.99,
+    "Sound": 43,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 176,
+    "Humidity": 36.8,
+    "Light": 441,
+    "Pressure": 98.98,
+    "Sound": 73.9,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 177,
+    "Humidity": 36.8,
+    "Light": 298,
+    "Pressure": 98.99,
+    "Sound": 69.6,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 178,
+    "Humidity": 36.8,
+    "Light": 226,
+    "Pressure": 98.97,
+    "Sound": 61.4,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 179,
+    "Humidity": 36.8,
+    "Light": 213,
+    "Pressure": 98.97,
+    "Sound": 52.5,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 180,
+    "Humidity": 36.8,
+    "Light": 202,
+    "Pressure": 98.97,
+    "Sound": 67.7,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 181,
+    "Humidity": 36.8,
+    "Light": 208,
+    "Pressure": 98.96,
+    "Sound": 75.5,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 182,
+    "Humidity": 36.8,
+    "Light": 177,
+    "Pressure": 98.96,
+    "Sound": 86,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 183,
+    "Humidity": 36.8,
+    "Light": 197,
+    "Pressure": 99,
+    "Sound": 88.3,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 184,
+    "Humidity": 36.8,
+    "Light": 208,
+    "Pressure": 98.99,
+    "Sound": 87.2,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 185,
+    "Humidity": 36.9,
+    "Light": 214,
+    "Pressure": 98.96,
+    "Sound": 88.1,
+    "Temperature": 34.9
+  },
+  {
+    "Time": 186,
+    "Humidity": 36.9,
+    "Light": 237,
+    "Pressure": 98.96,
+    "Sound": 86.8,
+    "Temperature": 35
+  },
+  {
+    "Time": 187,
+    "Humidity": 36.9,
+    "Light": 320,
+    "Pressure": 98.98,
+    "Sound": 87.4,
+    "Temperature": 35
+  },
+  {
+    "Time": 188,
+    "Humidity": 36.9,
+    "Light": 389,
+    "Pressure": 98.98,
+    "Sound": 86.4,
+    "Temperature": 35.1
+  },
+  {
+    "Time": 189,
+    "Humidity": 36.9,
+    "Light": 423,
+    "Pressure": 98.99,
+    "Sound": 89,
+    "Temperature": 35.1
+  },
+  {
+    "Time": 190,
+    "Humidity": 36.9,
+    "Light": 424,
+    "Pressure": 98.97,
+    "Sound": 88.7,
+    "Temperature": 35.2
+  },
+  {
+    "Time": 191,
+    "Humidity": 36.9,
+    "Light": 418,
+    "Pressure": 98.96,
+    "Sound": 89.7,
+    "Temperature": 35.2
+  },
+  {
+    "Time": 192,
+    "Humidity": 36.9,
+    "Light": 419,
+    "Pressure": 98.96,
+    "Sound": 89.3,
+    "Temperature": 35.3
+  },
+  {
+    "Time": 193,
+    "Humidity": 37,
+    "Light": 419,
+    "Pressure": 98.99,
+    "Sound": 89.7,
+    "Temperature": 35.3
+  },
+  {
+    "Time": 194,
+    "Humidity": 36.9,
+    "Light": 419,
+    "Pressure": 98.98,
+    "Sound": 91.7,
+    "Temperature": 35.4
+  },
+  {
+    "Time": 195,
+    "Humidity": 36.9,
+    "Light": 419,
+    "Pressure": 98.97,
+    "Sound": 90.4,
+    "Temperature": 35.4
+  },
+  {
+    "Time": 196,
+    "Humidity": 36.9,
+    "Light": 418,
+    "Pressure": 98.99,
+    "Sound": 89.1,
+    "Temperature": 35.4
+  },
+  {
+    "Time": 197,
+    "Humidity": 36.9,
+    "Light": 422,
+    "Pressure": 98.97,
+    "Sound": 88,
+    "Temperature": 35.5
+  },
+  {
+    "Time": 198,
+    "Humidity": 36.9,
+    "Light": 424,
+    "Pressure": 99,
+    "Sound": 87.5,
+    "Temperature": 35.5
+  },
+  {
+    "Time": 199,
+    "Humidity": 36.9,
+    "Light": 424,
+    "Pressure": 98.98,
+    "Sound": 90,
+    "Temperature": 35.6
+  },
+  {
+    "Time": 200,
+    "Humidity": 36.9,
+    "Light": 425,
+    "Pressure": 98.95,
+    "Sound": 87.1,
+    "Temperature": 35.6
+  },
+  {
+    "Time": 201,
+    "Humidity": 37,
+    "Light": 454,
+    "Pressure": 98.98,
+    "Sound": 89.8,
+    "Temperature": 35.6
+  },
+  {
+    "Time": 202,
+    "Humidity": 36.9,
+    "Light": 459,
+    "Pressure": 98.98,
+    "Sound": 92.2,
+    "Temperature": 35.6
+  },
+  {
+    "Time": 203,
+    "Humidity": 36.9,
+    "Light": 459,
+    "Pressure": 98.99,
+    "Sound": 90.7,
+    "Temperature": 35.6
+  },
+  {
+    "Time": 204,
+    "Humidity": 37,
+    "Light": 457,
+    "Pressure": 98.97,
+    "Sound": 90.5,
+    "Temperature": 35.7
+  },
+  {
+    "Time": 205,
+    "Humidity": 36.9,
+    "Light": 459,
+    "Pressure": 98.95,
+    "Sound": 90.3,
+    "Temperature": 35.7
+  },
+  {
+    "Time": 206,
+    "Humidity": 36.9,
+    "Light": 459,
+    "Pressure": 98.99,
+    "Sound": 90.8,
+    "Temperature": 35.7
+  },
+  {
+    "Time": 207,
+    "Humidity": 36.9,
+    "Light": 460,
+    "Pressure": 98.97,
+    "Sound": 93.7,
+    "Temperature": 35.7
+  },
+  {
+    "Time": 208,
+    "Humidity": 36.9,
+    "Light": 378,
+    "Pressure": 98.98,
+    "Sound": 91.8,
+    "Temperature": 35.7
+  },
+  {
+    "Time": 209,
+    "Humidity": 37,
+    "Light": 338,
+    "Pressure": 98.97,
+    "Sound": 89.9,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 210,
+    "Humidity": 36.9,
+    "Light": 437,
+    "Pressure": 98.98,
+    "Sound": 92.3,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 211,
+    "Humidity": 36.9,
+    "Light": 463,
+    "Pressure": 98.98,
+    "Sound": 92.8,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 212,
+    "Humidity": 36.9,
+    "Light": 462,
+    "Pressure": 98.96,
+    "Sound": 91.9,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 213,
+    "Humidity": 36.9,
+    "Light": 464,
+    "Pressure": 98.99,
+    "Sound": 92.4,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 214,
+    "Humidity": 36.9,
+    "Light": 467,
+    "Pressure": 98.98,
+    "Sound": 93.2,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 215,
+    "Humidity": 36.9,
+    "Light": 472,
+    "Pressure": 98.95,
+    "Sound": 93.7,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 216,
+    "Humidity": 36.9,
+    "Light": 459,
+    "Pressure": 98.93,
+    "Sound": 91.6,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 217,
+    "Humidity": 36.9,
+    "Light": 458,
+    "Pressure": 98.99,
+    "Sound": 92.1,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 218,
+    "Humidity": 36.9,
+    "Light": 457,
+    "Pressure": 98.96,
+    "Sound": 90.6,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 219,
+    "Humidity": 36.9,
+    "Light": 456,
+    "Pressure": 98.96,
+    "Sound": 88.2,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 220,
+    "Humidity": 36.9,
+    "Light": 456,
+    "Pressure": 98.95,
+    "Sound": 93,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 221,
+    "Humidity": 36.9,
+    "Light": 456,
+    "Pressure": 98.96,
+    "Sound": 93.2,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 222,
+    "Humidity": 36.9,
+    "Light": 457,
+    "Pressure": 98.97,
+    "Sound": 90,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 223,
+    "Humidity": 36.9,
+    "Light": 456,
+    "Pressure": 98.96,
+    "Sound": 87.1,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 224,
+    "Humidity": 36.9,
+    "Light": 456,
+    "Pressure": 98.95,
+    "Sound": 85.5,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 225,
+    "Humidity": 36.9,
+    "Light": 453,
+    "Pressure": 98.97,
+    "Sound": 88.6,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 226,
+    "Humidity": 36.9,
+    "Light": 455,
+    "Pressure": 98.98,
+    "Sound": 88.6,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 227,
+    "Humidity": 36.9,
+    "Light": 457,
+    "Pressure": 98.98,
+    "Sound": 88.6,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 228,
+    "Humidity": 36.9,
+    "Light": 459,
+    "Pressure": 98.97,
+    "Sound": 88.1,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 229,
+    "Humidity": 36.9,
+    "Light": 483,
+    "Pressure": 98.96,
+    "Sound": 88.3,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 230,
+    "Humidity": 37,
+    "Light": 489,
+    "Pressure": 98.99,
+    "Sound": 89.7,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 231,
+    "Humidity": 36.9,
+    "Light": 490,
+    "Pressure": 98.99,
+    "Sound": 83.7,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 232,
+    "Humidity": 36.9,
+    "Light": 491,
+    "Pressure": 98.98,
+    "Sound": 91.7,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 233,
+    "Humidity": 37,
+    "Light": 491,
+    "Pressure": 98.99,
+    "Sound": 88.3,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 234,
+    "Humidity": 37,
+    "Light": 493,
+    "Pressure": 98.97,
+    "Sound": 90.7,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 235,
+    "Humidity": 37,
+    "Light": 493,
+    "Pressure": 99,
+    "Sound": 91.6,
+    "Temperature": 35.8
+  },
+  {
+    "Time": 236,
+    "Humidity": 37,
+    "Light": 492,
+    "Pressure": 98.98,
+    "Sound": 88.5,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 237,
+    "Humidity": 37,
+    "Light": 475,
+    "Pressure": 98.95,
+    "Sound": 88.1,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 238,
+    "Humidity": 37,
+    "Light": 510,
+    "Pressure": 98.98,
+    "Sound": 88.3,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 239,
+    "Humidity": 37,
+    "Light": 526,
+    "Pressure": 98.93,
+    "Sound": 86.9,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 240,
+    "Humidity": 37,
+    "Light": 521,
+    "Pressure": 98.97,
+    "Sound": 90.5,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 241,
+    "Humidity": 37,
+    "Light": 523,
+    "Pressure": 99,
+    "Sound": 91.1,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 242,
+    "Humidity": 37,
+    "Light": 540,
+    "Pressure": 99,
+    "Sound": 92.6,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 243,
+    "Humidity": 37,
+    "Light": 543,
+    "Pressure": 98.98,
+    "Sound": 92.7,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 244,
+    "Humidity": 37,
+    "Light": 587,
+    "Pressure": 98.95,
+    "Sound": 90.8,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 245,
+    "Humidity": 37,
+    "Light": 620,
+    "Pressure": 98.98,
+    "Sound": 90.4,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 246,
+    "Humidity": 37,
+    "Light": 636,
+    "Pressure": 98.98,
+    "Sound": 90.2,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 247,
+    "Humidity": 37,
+    "Light": 646,
+    "Pressure": 98.99,
+    "Sound": 90.4,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 248,
+    "Humidity": 37,
+    "Light": 597,
+    "Pressure": 98.96,
+    "Sound": 90.8,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 249,
+    "Humidity": 37,
+    "Light": 625,
+    "Pressure": 98.97,
+    "Sound": 92,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 250,
+    "Humidity": 37,
+    "Light": 653,
+    "Pressure": 98.97,
+    "Sound": 91.4,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 251,
+    "Humidity": 37,
+    "Light": 654,
+    "Pressure": 98.97,
+    "Sound": 92.3,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 252,
+    "Humidity": 37,
+    "Light": 654,
+    "Pressure": 98.97,
+    "Sound": 91.5,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 253,
+    "Humidity": 37,
+    "Light": 658,
+    "Pressure": 98.97,
+    "Sound": 92.9,
+    "Temperature": 35.9
+  },
+  {
+    "Time": 254,
+    "Humidity": 37,
+    "Light": 654,
+    "Pressure": 98.97,
+    "Sound": 91.4,
+    "Temperature": 36
+  },
+  {
+    "Time": 255,
+    "Humidity": 36.9,
+    "Light": 655,
+    "Pressure": 98.97,
+    "Sound": 93.9,
+    "Temperature": 36
+  },
+  {
+    "Time": 256,
+    "Humidity": 36.9,
+    "Light": 659,
+    "Pressure": 98.98,
+    "Sound": 90.4,
+    "Temperature": 36
+  },
+  {
+    "Time": 257,
+    "Humidity": 36.9,
+    "Light": 660,
+    "Pressure": 98.98,
+    "Sound": 89.7,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 258,
+    "Humidity": 36.9,
+    "Light": 659,
+    "Pressure": 98.98,
+    "Sound": 93,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 259,
+    "Humidity": 36.9,
+    "Light": 661,
+    "Pressure": 98.94,
+    "Sound": 90.2,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 260,
+    "Humidity": 36.9,
+    "Light": 684,
+    "Pressure": 98.93,
+    "Sound": 91.2,
+    "Temperature": 36.2
+  },
+  {
+    "Time": 261,
+    "Humidity": 36.9,
+    "Light": 686,
+    "Pressure": 98.99,
+    "Sound": 91.2,
+    "Temperature": 36.2
+  },
+  {
+    "Time": 262,
+    "Humidity": 36.9,
+    "Light": 687,
+    "Pressure": 98.96,
+    "Sound": 92.9,
+    "Temperature": 36.2
+  },
+  {
+    "Time": 263,
+    "Humidity": 36.9,
+    "Light": 688,
+    "Pressure": 98.96,
+    "Sound": 90.3,
+    "Temperature": 36.2
+  },
+  {
+    "Time": 264,
+    "Humidity": 36.9,
+    "Light": 687,
+    "Pressure": 98.96,
+    "Sound": 87.8,
+    "Temperature": 36.2
+  },
+  {
+    "Time": 265,
+    "Humidity": 36.9,
+    "Light": 688,
+    "Pressure": 98.97,
+    "Sound": 90.9,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 266,
+    "Humidity": 36.9,
+    "Light": 688,
+    "Pressure": 98.96,
+    "Sound": 92.5,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 267,
+    "Humidity": 36.9,
+    "Light": 687,
+    "Pressure": 98.93,
+    "Sound": 89.2,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 268,
+    "Humidity": 36.9,
+    "Light": 678,
+    "Pressure": 98.97,
+    "Sound": 92,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 269,
+    "Humidity": 36.9,
+    "Light": 663,
+    "Pressure": 98.96,
+    "Sound": 92.3,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 270,
+    "Humidity": 36.9,
+    "Light": 604,
+    "Pressure": 98.98,
+    "Sound": 89.7,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 271,
+    "Humidity": 36.9,
+    "Light": 442,
+    "Pressure": 98.98,
+    "Sound": 90.3,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 272,
+    "Humidity": 36.8,
+    "Light": 397,
+    "Pressure": 98.98,
+    "Sound": 89.4,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 273,
+    "Humidity": 36.8,
+    "Light": 380,
+    "Pressure": 98.96,
+    "Sound": 90.2,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 274,
+    "Humidity": 36.8,
+    "Light": 441,
+    "Pressure": 99,
+    "Sound": 93.3,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 275,
+    "Humidity": 36.8,
+    "Light": 499,
+    "Pressure": 98.99,
+    "Sound": 90.8,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 276,
+    "Humidity": 36.8,
+    "Light": 472,
+    "Pressure": 98.99,
+    "Sound": 92,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 277,
+    "Humidity": 36.7,
+    "Light": 426,
+    "Pressure": 98.98,
+    "Sound": 92.8,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 278,
+    "Humidity": 36.7,
+    "Light": 509,
+    "Pressure": 98.96,
+    "Sound": 92.4,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 279,
+    "Humidity": 36.7,
+    "Light": 480,
+    "Pressure": 98.98,
+    "Sound": 88.7,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 280,
+    "Humidity": 36.7,
+    "Light": 602,
+    "Pressure": 98.97,
+    "Sound": 91.2,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 281,
+    "Humidity": 36.8,
+    "Light": 678,
+    "Pressure": 98.98,
+    "Sound": 94.2,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 282,
+    "Humidity": 36.7,
+    "Light": 697,
+    "Pressure": 99,
+    "Sound": 93.4,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 283,
+    "Humidity": 36.8,
+    "Light": 700,
+    "Pressure": 98.97,
+    "Sound": 88.5,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 284,
+    "Humidity": 36.8,
+    "Light": 700,
+    "Pressure": 98.94,
+    "Sound": 91.8,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 285,
+    "Humidity": 36.8,
+    "Light": 700,
+    "Pressure": 99,
+    "Sound": 92.4,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 286,
+    "Humidity": 36.7,
+    "Light": 700,
+    "Pressure": 98.94,
+    "Sound": 88.7,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 287,
+    "Humidity": 36.8,
+    "Light": 700,
+    "Pressure": 98.98,
+    "Sound": 91.8,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 288,
+    "Humidity": 36.7,
+    "Light": 699,
+    "Pressure": 99.01,
+    "Sound": 87.4,
+    "Temperature": 36.1
+  },
+  {
+    "Time": 289,
+    "Humidity": 36.7,
+    "Light": 698,
+    "Pressure": 99,
+    "Sound": 89.6,
+    "Temperature": 36.1
+  }
+]
