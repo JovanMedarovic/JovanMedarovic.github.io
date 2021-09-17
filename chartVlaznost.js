@@ -196,7 +196,85 @@ function main() {
         yAxes: [{
           scaleLabel: {
             display: true,
-            labelString: 'Temperatura °C'
+            labelString: 'Temperatura (°C)'
+          }
+        }],
+        xAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: 'Vreme (s)'
+          }
+        }]
+      }   
+    },
+  });
+
+
+  new Chart("chartPritisak-Temp", {
+    type: "line",
+    data: {
+      labels: timeLine,
+      datasets: [
+        {
+          data: [...temperatura],
+          borderColor: "orange",
+          label: "Temperatura",
+          fill: false,
+        },
+        {
+          data: [...pritisak],
+          borderColor: "blue",
+          label: "Pritisak",
+          fill: false,
+        },
+      ],
+    },
+    options: {
+      legend: { display: true },
+      scales: {
+        yAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: `Temperatura (°C) / Pritisak vazduha (KPa)`
+          }
+        }],
+        xAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: 'Vreme (s)'
+          }
+        }]
+      }   
+    },
+  });
+
+
+  new Chart("chartVlaznost-Temp", {
+    type: "line",
+    data: {
+      labels: timeLine,
+      datasets: [
+        {
+          data: [...temperatura],
+          borderColor: "orange",
+          label: "Temperatura",
+          fill: false,
+        },
+        {
+          data: [...vlaznost],
+          borderColor: "red",
+          label: "Vlaznost",
+          fill: false,
+        },
+      ],
+    },
+    options: {
+      legend: { display: true },
+      scales: {
+        yAxes: [{
+          scaleLabel: {
+            display: true,
+            labelString: `Temperatura (°C) / Procenat vlaznosti (%)`
           }
         }],
         xAxes: [{
